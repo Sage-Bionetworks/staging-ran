@@ -7,6 +7,15 @@ License: GPL-3
 MD5sum: 4188a21e0eba4c51b0a85c9da413a3b9
 NeedsCompilation: yes
 
+Package: PythonEmbedInR
+Version: 0.1.2
+Depends: R (>= 2.15), R6
+Imports: pack, methods, stats
+Suggests: testthat
+License: GPL-3
+MD5sum: 0ec89b01bc31912b7757181568694fe9
+NeedsCompilation: yes
+
 Package: synapser
 Version: 0.1.1
 Depends: PythonEmbedInR(>= 0.1-4), R(>= 3.3)
