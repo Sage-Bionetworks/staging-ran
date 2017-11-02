@@ -37,3 +37,11 @@ Imports: PythonEmbedInR
 Suggests: testthat, knitr, rmarkdown
 License: GPL
 MD5sum: db3645c5ce8ce12ef07b7cef24e50007
+
+Package: synapser
+Version: 0.1.6
+Depends: PythonEmbedInR(>= 0.1.4), R(>= 3.3), methods
+Imports: PythonEmbedInR
+Suggests: testthat, knitr, rmarkdown
+License: GPL
+MD5sum: 1d5003b766a68bdb6e85fcde50ad87eb
