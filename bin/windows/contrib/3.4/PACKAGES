@@ -77,6 +77,13 @@ Suggests: testthat, knitr, rmarkdown
 License: GPL
 
 Package: synapser
+Version: 0.1.12
+Depends: PythonEmbedInR(>= 0.1.9), R(>= 3.3), methods, rjson
+Imports: PythonEmbedInR
+Suggests: testthat, knitr, rmarkdown
+License: GPL
+
+Package: synapser
 Version: 0.1.1
 Depends: PythonEmbedInR(>= 0.1-4), R(>= 3.3)
 Imports: PythonEmbedInR
