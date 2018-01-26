@@ -1,4 +1,12 @@
 Package: PythonEmbedInR
+Version: 0.1.10
+Depends: R (>= 2.15), R6
+Imports: pack, methods, stats
+Suggests: testthat
+License: GPL-3
+MD5sum: c884707636a86b10dd65f40a55134c28
+
+Package: PythonEmbedInR
 Version: 0.1.1
 Depends: R (>= 2.15), R6
 Imports: pack, methods, stats
