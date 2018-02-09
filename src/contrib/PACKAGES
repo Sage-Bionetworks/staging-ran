@@ -188,6 +188,15 @@ MD5sum: 527edd66f0bb4f4135b6407610aeddb1
 NeedsCompilation: no
 
 Package: synapser
+Version: 0.1.21
+Depends: PythonEmbedInR(>= 0.1.11), R(>= 3.3), methods, rjson
+Imports: PythonEmbedInR
+Suggests: testthat, knitr, rmarkdown
+License: GPL
+MD5sum: b5ea8aa29e54b0d2cc0719d702e7a25a
+NeedsCompilation: no
+
+Package: synapser
 Version: 0.1.4
 Depends: PythonEmbedInR(>= 0.1.1), R(>= 3.3)
 Imports: PythonEmbedInR
