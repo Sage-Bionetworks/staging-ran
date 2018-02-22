@@ -2,7 +2,7 @@
 
 Collections of pre-release version R packages developed by Sage Bionetworks.
 
-# Avaialble R packages:
+# Available R packages:
 
 ## [synapser](https://github.com/Sage-Bionetworks/synapser)
 
