@@ -183,6 +183,14 @@ License: GPL
 MD5sum: 7f76adb399c4f0291321d6052ec2290d
 
 Package: synapser
+Version: 0.1.27
+Depends: PythonEmbedInR(>= 0.1.11), R(>= 3.3), methods, rjson
+Imports: PythonEmbedInR
+Suggests: testthat, knitr, rmarkdown
+License: GPL
+MD5sum: 03ea52d40150764ebf2458bfe4c7dae5
+
+Package: synapser
 Version: 0.1.4
 Depends: PythonEmbedInR(>= 0.1.1), R(>= 3.3)
 Imports: PythonEmbedInR
