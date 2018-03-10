@@ -26,6 +26,15 @@ MD5sum: 1e03f6a8592caa0a84c42ddd511705c6
 NeedsCompilation: yes
 
 Package: PythonEmbedInR
+Version: 0.1.14
+Depends: R (>= 2.15), R6
+Imports: pack, methods, stats
+Suggests: testthat
+License: GPL-3
+MD5sum: ad1fa97e8ee8df0ed5df5b5823337ae6
+NeedsCompilation: yes
+
+Package: PythonEmbedInR
 Version: 0.1.1
 Depends: R (>= 2.15), R6
 Imports: pack, methods, stats
