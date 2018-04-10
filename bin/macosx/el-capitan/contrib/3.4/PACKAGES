@@ -277,3 +277,10 @@ Imports: PythonEmbedInR
 Suggests: testthat, knitr, rmarkdown
 License: GPL
 MD5sum: 9fcca25e7697a2c7d6d00de38e315b57
+
+Package: synapserutils
+Version: 0.1.2
+Depends: synapser (>= 0.2)
+Suggests: testthat, knitr, rmarkdown
+License: Apache License 2.0
+MD5sum: 7d2c2a218b9e2493ee10ec6ac0637330

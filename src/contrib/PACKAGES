@@ -330,3 +330,11 @@ Suggests: testthat, knitr, rmarkdown
 License: GPL
 MD5sum: a87902a664b3471029917ff90a67de50
 NeedsCompilation: no
+
+Package: synapserutils
+Version: 0.1.2
+Depends: synapser (>= 0.2)
+Suggests: testthat, knitr, rmarkdown
+License: Apache License 2.0
+MD5sum: cf5f9fb6465e9efb6b4d49e3910804e2
+NeedsCompilation: no
