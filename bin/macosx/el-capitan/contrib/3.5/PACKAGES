@@ -5,3 +5,11 @@ Imports: pack, methods, stats
 Suggests: testthat
 License: GPL-3
 MD5sum: bb9d7fbb7cb8b3750ad44258c9be0352
+
+Package: synapser
+Version: 0.2.33
+Depends: R(>= 3.3)
+Imports: PythonEmbedInR(>= 0.2.21), utils, methods
+Suggests: testthat, knitr, rmarkdown
+License: Apache License 2.0
+MD5sum: ec51ab4b73fab4ce4aa376028362d09d
