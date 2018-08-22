@@ -448,6 +448,15 @@ License: Apache License 2.0
 MD5sum: 1b68c4d6d15b76684f1c1017786ec313
 NeedsCompilation: no
 
+Package: synapser
+Version: 0.3.39
+Depends: R(>= 3.3)
+Imports: PythonEmbedInR(>= 0.2.24), utils, methods
+Suggests: testthat, knitr, rmarkdown
+License: Apache License 2.0
+MD5sum: 7de1842ecac8aae22ac5e279cb7f47f8
+NeedsCompilation: no
+
 Package: synapserutils
 Version: 0.1.2
 Depends: synapser (>= 0.2)
