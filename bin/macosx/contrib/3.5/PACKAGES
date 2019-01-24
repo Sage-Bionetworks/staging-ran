@@ -1,7 +1,0 @@
-Package: PythonEmbedInR
-Version: 0.2.22
-Depends: R (>= 2.15), R6, rjson
-Imports: pack, methods, stats
-Suggests: testthat
-License: GPL-3
-MD5sum: f6ebfceafc91b77124e3cbe6a2c582b6
