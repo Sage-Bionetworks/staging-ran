@@ -16,7 +16,7 @@ options(repos=c("https://sage-bionetworks.github.io/staging-ran", "http://cran.f
 
 after which you may run `install.packages()`.
 
-# Available packages
+# Available Packages
 
 - [synapser](https://github.com/Sage-Bionetworks/synapser) - an interface to [Synapse](https://www.synapse.org), a collaborative workspace for reproducible data intensive research projects.
 - [synapserutils](https://github.com/Sage-Bionetworks/synapserutils) - a package that provides a set of utility functions, built on top of the synapser package.
