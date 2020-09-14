@@ -1,3 +1,5 @@
+# This repository formerly hosted Sage Bionetworks' Staging R Archive Network - it is now deprecated in favor of http://staging-ran.synapse.org/
+
 # Sage Bionetworks Staging R Archive Network
 
 This is the Sage Bionetworks Staging R Archive Network (Staging-RAN) - a CRAN-like repository for R packages published by Sage Bionetworks.
